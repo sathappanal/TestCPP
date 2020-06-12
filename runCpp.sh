@@ -1,5 +1,9 @@
 #!bin/sh
 
-g++ HelloWorld.cpp -o HelloWorld
+echo "hi"
 
-HelloWorld
+#g++ HelloWorld.cpp -o HelloWorld
+
+#HelloWorld.exe
+
+sleep 10
